@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="container">
+  <h1>{{ .Title }}</h1>
+
+  {{ if .Params.description }}
+    <p>{{ .Params.description }}</p>
+  {{ end }}
+
+  <h2>All Blog Posts</h2>
+  <ul>
+    {{ range where site.RegularPages "Section" "blog" }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> – {{ .Date.Format "2006-01-02" }}
+      </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

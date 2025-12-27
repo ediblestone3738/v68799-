@@ -1,0 +1,127 @@
+baseURL = "https://v68799.com/"
+languageCode = "en-us"
+title = "Security Camera Guide"
+theme = "mainroad"
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+[Params.Author]
+  name = "Security Camera Guide"
+  bio = "Your trusted source for security camera reviews, guides, and comparisons"
+  avatar = "/images/avatar.png"
+
+
+[Params]
+  description = "Expert security camera reviews, buying guides, and installation tutorials"
+  copyright = "Security Camera Guide"
+  opengraph = true
+  schema = true
+  twitter_cards = true
+  readmore = true
+  authorbox = true
+  toc = true
+  pager = true
+  post_meta = ["author", "date", "categories", "translations"]
+  mainSections = ["reviews", "guides", "best"]
+  dateformat = "2006-01-02"
+  mathjax = false
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+  highlightColor = "#e22d30"
+  customCSS = ["css/custom.css"]
+  customJS = []
+  images = ["/images/og-default.jpg"]
+
+[taxonomies]
+category = "categories"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "social"]
+
+[Params.widgets]
+  recent_num = 5
+  categories_counter = true
+  tags_counter = true
+
+[Params.widgets.social]
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  linkedin = ""
+  youtube = ""
+  github = ""
+
+[[menus.main]]
+  identifier = "indoor-cameras"
+  name = "Indoor Cameras"
+  url = "/indoor-security-cameras/"
+  weight = 1
+
+[[menus.main]]
+  identifier = "outdoor-cameras"
+  name = "Outdoor Cameras"
+  url = "/outdoor-security-cameras/"
+  weight = 2
+
+[[menus.main]]
+  identifier = "wireless"
+  name = "Wireless"
+  url = "/wireless-security-cameras/"
+  weight = 3
+
+[[menus.main]]
+  identifier = "guides"
+  name = "Guides"
+  url = "/guides/"
+  weight = 4
+
+[[menus.main]]
+  identifier = "reviews"
+  name = "Reviews"
+  url = "/reviews/"
+  weight = 5
+
+[[menus.main]]
+  identifier = "best"
+  name = "Best Of"
+  url = "/best/"
+  weight = 6
+
+[[menus.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 7
+
+
+[[menus.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menus.footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 2
+
+[[menus.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
+
+[[menus.footer]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 4
+
+[[menus.footer]]
+  name = "Terms of Service"
+  url = "/terms-of-service/"
+  weight = 5
+

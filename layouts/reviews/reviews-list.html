@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="container">
+  <h1>{{ .Title }}</h1>
+  {{ if .Params.description }}
+    <p>{{ .Params.description }}</p>
+  {{ end }}
+
+  <h2>Browse Reviews by Category</h2>
+
+  {{ $categories := slice "Indoor Security Cameras" "Outdoor Security Cameras" "Wireless Security Cameras" }}
+  {{ $reviews := where .Site.RegularPages "Section" "reviews" }}  <!-- dot added here -->
+
+  {{ range $cat := $categories }}
+    <h3 class="category-button">
+      <a href="{{ (print "/categories/" ($cat | urlize) "/") | relURL }}">
+        {{ $cat }}
+      </a>
+    </h3>
+
+    <ul>
+      {{ range where $reviews "Params.categories" $cat }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</main>
+{{ end }}
