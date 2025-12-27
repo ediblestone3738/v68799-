@@ -99,6 +99,14 @@ category = "categories"
   url = "/blog/"
   weight = 7
 
+[[menus.main]]
+  identifier = "install"
+  name = "Security Camera Installation"
+  url = "/install/"
+  weight = 8
+
+
+
 
 [[menus.footer]]
   name = "About"
