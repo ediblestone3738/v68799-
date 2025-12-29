@@ -3,7 +3,7 @@ title = "Eufy vs Blink Outdoor Security Camera Comparison: Which One Should You 
 description = "Compare the Eufy SoloCam S340 and Blink Outdoor 4 cameras. Discover differences in video quality, battery life, night vision, motion detection, and ease of use in this detailed comparison."
 date = 2025-12-29T14:00:00Z
 draft = false
-categories = ["Reviews"]
+categories = ["Reviews", "Outdoor Security Cameras"]
 tags = ["Eufy", "Blink", "Outdoor Camera", "Home Security", "Camera Comparison", "Night Vision"]
 slug = "eufy-vs-blink-outdoor-security-camera-comparison"
 +++
