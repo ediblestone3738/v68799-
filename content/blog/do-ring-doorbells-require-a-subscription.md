@@ -42,7 +42,7 @@ Do Ring Doorbells Require a Subscription?
 Now, addressing the pivotal question: do Ring doorbells require a subscription? The answer is nuanced. **A subscription is not mandatory for basic functionality.** Users can enjoy features like live camera viewing, two-way audio, and motion alerts without any cost. However, to access more advanced capabilities—including video recordings and sharing, cloud storage, and increased video review duration—you will need to subscribe to Ring Protect.
 
 The Ring Protect Plan comes in two tiers:
-- **Basic Plan**: This plan usually costs around $3 per month and allows you to save recordings for 60 days for one device.
+- **Basic Plan**: This plan usually costs around $4.99 per month and allows you to save recordings for 60 days for one device.
 - **Plus Plan**: Costing approximately $10 per month, this plan offers coverage for all your Ring devices and extends recording storage to a full 60 days, along with other premium features.
 
 Those who value privacy or want to control their data might be hesitant to use a subscription model. Still, the trade-off for enhanced functionality can be worthwhile, especially for homeowners serious about their security needs.
