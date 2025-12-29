@@ -24,6 +24,9 @@ The actual time it takes to install security cameras can vary significantly base
 
 To kick off your installation process, gather your materials: the cameras, necessary tools like drills and screwdrivers, and any mounting equipment included in the package. Reading through the user manual before starting can save time and prevent errors during setup.
 
+For a complete step-by-step walkthrough from unboxing to fully operational, see our [Ring Doorbell installation guide](/guides/ring-doorbell/).
+
+
 Start by determining the optimal locations for your cameras. Ideal spots include entrances, driveways, and backyards, where potential threats may lurk. Pay attention to potential interference from trees, awnings, or other structures that may obscure your camera's view or hinder its Wi-Fi signal for wireless setups.
 
 For wireless cameras, the installation is often as simple as mounting the camera on a wall, syncing it with the smartphone app, and connecting it to the home Wi-Fi network. Ensure you have a strong signal and test each camera's coverage before securing them in place. For wired installations, drill uneven surfaces with care to avoid wiring damage and ensure the connections are secure before finally mounting them in place and integrating with power supplies.
