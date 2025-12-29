@@ -15,6 +15,10 @@ author = "Shane"
 The Ring Doorbell has become a household name in the world of smart home security. With its sleek design, advanced motion detection, high-definition video, and seamless integration with smart home ecosystems, it promises homeowners an effective way to monitor their front door and enhance home security. In this review, we dive deep into the features, performance, pros and cons, and overall value of the Ring Doorbell, as well as practical insights from real-world usage.
 
 ---
+<p align="center">
+  <img src="/ring-doorbell.webp" alt="Ring Doorbell" />
+</p>
+
 
 ## Overview
 

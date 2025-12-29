@@ -33,6 +33,11 @@ When it comes to outdoor home security cameras, two names you’ll often hear ar
 
 ---
 
+<p align="center">
+  <img src="/blink-security-camera.webp" alt="Eufy vs Blink Outdoor Security Camera Comparison" />
+</p>
+
+
 ## Overview of Eufy SoloCam S340
 
 The **Eufy SoloCam S340** is a feature-packed outdoor security camera designed for homeowners who want **high-quality video, intelligent motion detection, and minimal subscription fees**. Key highlights include:

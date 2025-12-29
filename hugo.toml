@@ -31,6 +31,12 @@ canonifyURLs = true
   customJS = []
   images = ["/images/og-default.jpg"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [taxonomies]
 category = "categories"
 
