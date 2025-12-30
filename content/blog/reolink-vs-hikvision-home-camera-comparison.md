@@ -14,6 +14,20 @@ In today's age of increasing home security concerns, the importance of reliable 
 
 Reolink is known for its user-friendly design and innovative technology, while Hikvision boasts a more professional-grade lineup favored by many businesses. However, both brands have established themselves in the residential surveillance sphere, making this comparison all the more relevant for homeowners.
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 40px 0;">
+  <img 
+    src="/reolink-security-camera.webp" 
+    alt="Reolink Vs Hikvision Home Camera Comparison" 
+    style="max-width: 45%; height: auto;"
+  >
+  <img 
+    src="/hikvision-security-camera.webp" 
+    alt="Reolink Vs Hikvision Home Camera Comparison" 
+    style="max-width: 45%; height: auto;"
+  >
+</div>
+
+
 **Technical Features**  
 When evaluating the technical features, both Reolink and Hikvision showcase impressive specifications that cater to a variety of security needs. Let's start with Reolink.
 

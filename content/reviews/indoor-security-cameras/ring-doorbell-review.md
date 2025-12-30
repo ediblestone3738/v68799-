@@ -6,6 +6,7 @@ date = "2025-12-29"
 draft = false
 categories = ["Reviews", "Indoor Security Cameras"]
 tags = ["Ring Doorbell", "Smart Home", "Home Security"]
+thumbnail = "/ring-doorbell.webp"
 slug = "ring-doorbell-review"
 author = "Shane"
 +++

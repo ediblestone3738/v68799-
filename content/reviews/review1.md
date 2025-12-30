@@ -6,6 +6,10 @@ date = "2025-12-29"
 draft = false
 +++
 
+<p align="center">
+  <img src="/reolink-security-camera.webp" alt="Reolink RLC-820A Review" />
+</p>
+
 # Reolink RLC-820A Review
 
 The Reolink RLC-810A sits in a very specific and increasingly popular segment of the security camera market: fixed-lens 4K PoE cameras with on-device smart detection and no mandatory subscription. It’s aimed squarely at homeowners and small businesses who want high-resolution footage, reliable alerts, and full control over their recordings without handing everything over to the cloud.

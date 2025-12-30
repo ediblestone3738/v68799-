@@ -6,6 +6,7 @@ date = "2025-12-29"
 draft = false
 categories = ["Guides"]
 tags = ["Arlo Pro 4", "Home Security", "Installation Guide"]
+thumbnail = "/arlo-pro-4.webp"
 slug = "arlo-pro-4-installation-guide"
 author = "Shane"
 +++
@@ -17,6 +18,10 @@ This Arlo Pro 4 installation guide is written for beginners and assumes no prior
 For more details on performance, features, and expert evaluation, see our [Arlo Pro 4 review](/reviews/arlo-pro-4-review/).
 
 ---
+
+<p align="center">
+  <img src="/arlo-pro-4.webp" alt="Reolink RLC-820A Review" />
+</p>
 
 ## What You Need Before You Start
 

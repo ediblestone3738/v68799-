@@ -4,6 +4,7 @@ seo_title = "Reolink RLC-810A Setup Guide – Step-by-Step Installation for Begi
 description = "Beginner-friendly Reolink RLC-810A setup guide covering unboxing, PoE wiring, app setup, mounting, and smart detection configuration."
 date = "2025-12-29"
 draft = false
+thumbnail = "/reolink-security-camera.webp"
 +++
 
 # Reolink RLC-810A Setup Guide
@@ -15,6 +16,10 @@ The goal is simple: by the end of this guide, your Reolink RLC-810A will be moun
 No prior technical knowledge is assumed.
 
 ---
+
+<p align="center">
+  <img src="/reolink-security-camera.webp" alt="Reolink Setup Guide" />
+</p>
 
 ## What You Need Before You Start
 
